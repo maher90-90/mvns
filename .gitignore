@@ -1,0 +1,12 @@
+# Binaries
+mvns
+mvns.exe
+
+# GoReleaser output
+dist/
+
+# Local configuration/cache during development
+cache.json
+history.json
+config.json
+*.log

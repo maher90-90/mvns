@@ -1,0 +1,14 @@
+{
+  "search.placeholder": "Pakete suchen...",
+  "search.title": "Maven Central Suche",
+  "search.help": "Enter zum Suchen | Esc zum Beenden",
+  "results.page": "Seite %d/%d",
+  "results.help": "Hoch/Runter navigieren | n/p Seite | Enter auswaehlen | Esc beenden",
+  "versions.stable": "Stabile Versionen",
+  "versions.prerelease": "Vorabversionen / RC",
+  "versions.help": "Hoch/Runter navigieren | Enter auswaehlen | Esc zurueck",
+  "snippets.copied": "In Zwischenablage kopiert!",
+  "snippets.help": "Tab Format wechseln | Enter kopieren | Esc zurueck",
+  "error.network": "Netzwerkfehler. Bitte Verbindung pruefen.",
+  "error.noresults": "Keine Ergebnisse gefunden."
+}

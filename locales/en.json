@@ -1,0 +1,19 @@
+{
+  "search.placeholder": "Search packages...",
+  "search.title": "Maven Central Search",
+  "search.searching": "Searching...",
+  "search.label": "Search: ",
+  "search.help": "Enter to search | Esc to quit",
+  "results.page": "Page %d/%d",
+  "results.range": "Results %d-%d of %d",
+  "results.itemsCount": "%d items",
+  "results.versionCount": "%d versions",
+  "results.help": "Up/Down navigate | n/p page | / search | Enter select | Esc quit",
+  "versions.stable": "Stable Releases",
+  "versions.prerelease": "Pre-Release / RC",
+  "versions.help": "Up/Down navigate | / search | Enter select | Esc back",
+  "snippets.copied": "Copied to clipboard!",
+  "snippets.help": "Tab switch format | c scope | / search | Enter copy | Esc back",
+  "error.network": "Network error. Please check your connection.",
+  "error.noresults": "No results found."
+}

@@ -1,0 +1,14 @@
+{
+  "search.placeholder": "Search packages...",
+  "search.title": "Maven Central Search",
+  "search.help": "Enter to search | Esc to quit",
+  "results.page": "Page %d/%d",
+  "results.help": "Up/Down navigate | n/p page | Enter select | Esc quit",
+  "versions.stable": "Stable Releases",
+  "versions.prerelease": "Pre-Release / RC",
+  "versions.help": "Up/Down navigate | Enter select | Esc back",
+  "snippets.copied": "Copied to clipboard!",
+  "snippets.help": "Tab switch format | Enter copy | Esc back",
+  "error.network": "Network error. Please check your connection.",
+  "error.noresults": "No results found."
+}
